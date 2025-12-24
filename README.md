@@ -68,17 +68,14 @@ _(Will code in anything… even if it hates me back 🐸)_
 
 ---
 
-## 📚 Interests
+## 📚 Personal Interests
 
-- **Technical:** Distributed systems internals · Cloud security & identity · Developer tooling & build systems
-
-- **Personal:**
-  - **Anime** (because life is a series)
-  - **PS5** (winning, losing, repeat)
-  - **Food** (fuel for coding)
-  - **EVs** (saving the planet, one charge at a time)
-  - **AI** (my robot friends)
-  - **Sleep** (sometimes) 🐸
+- **Anime** (because life is a series)
+- **PS5** (winning, losing, repeat)
+- **Food** (fuel for coding)
+- **EVs** (saving the planet, one charge at a time)
+- **AI** (my robot friends)
+- **Sleep** (sometimes) 🐸
 
 ---
 
