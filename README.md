@@ -53,7 +53,7 @@ Software Engineer. Pretending I know what I’m doing since forever.
 - **Build Systems** (because someone has to make this compile)
 
 ### ☁️ Cloud
-**GCP · Azure · Kubernetes · Terraform**  
+**GCP · AWS · Azure · Kubernetes · Terraform**  
 _(Why so many docs for the same thing? Asking for a friend… and my sanity)_
 
 ### 🤖 AI
