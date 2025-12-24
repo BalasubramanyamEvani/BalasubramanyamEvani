@@ -1,6 +1,6 @@
 ## Ahh… curious human detected  (°Ω°)
 
-<div style="display: flex; gap: 20px;">
+<div>
 <div>
 ╔╗─╔╦═══╦╗──╔╗──╔═══╗╔╗
 ║║─║║╔══╣║──║║──║╔═╗║║║
